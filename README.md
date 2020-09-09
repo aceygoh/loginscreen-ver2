@@ -1,2 +1,2 @@
 # loginscreen-ver2
-# pending
+# prototype of static mobile gui design
